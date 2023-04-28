@@ -43,7 +43,7 @@ const Topbar = () => {
                         ms='2'
                         title='logo'
                     >
-                        vaiSH
+                        suSHOP
                     </Link>
                 </Flex>
 
